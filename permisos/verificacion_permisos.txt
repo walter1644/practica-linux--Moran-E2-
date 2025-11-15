@@ -1,0 +1,32 @@
+========== VERIFICACIÓN DE PERMISOS - ALUMNO A - Moran ==========
+Archivos en mi directorio personal:
+total 16
+drwxrwxr-x 2 vagrant vagrant 4096 Nov 15 15:04 .
+drwxr-x--- 8 vagrant vagrant 4096 Nov 15 15:04 ..
+-rw------- 1 vagrant vagrant   38 Nov 15 15:04 privado.txt
+-rw-r--r-- 1 vagrant vagrant   39 Nov 15 15:04 publico.txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+equipotrabajo:x:1003:estudiante1,estudiante2,estudiante3,vagrant
+
+========== VERIFICACIÓN DE PERMISOS - ALUMNO B - Moran ==========
+Archivos en mi directorio personal:
+total 16
+drwxrwxr-x 2 vagrant vagrant 4096 Nov 15 15:04 .
+drwxr-x--- 8 vagrant vagrant 4096 Nov 15 15:04 ..
+-rw------- 1 vagrant vagrant   38 Nov 15 15:04 privado.txt
+-rw-r--r-- 1 vagrant vagrant   39 Nov 15 15:04 publico.txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+equipotrabajo:x:1003:estudiante1,estudiante2,estudiante3,vagrant
+ ========== VERIFICACIÓN DE PERMISOS - ALUMNO C - Moran ==========
+Archivos en mi directorio personal:
+total 16
+drwxrwxr-x 2 vagrant vagrant 4096 Nov 15 15:04 .
+drwxr-x--- 8 vagrant vagrant 4096 Nov 15 15:04 ..
+-rw------- 1 vagrant vagrant   38 Nov 15 15:04 privado.txt
+-rw-r--r-- 1 vagrant vagrant   39 Nov 15 15:04 publico.txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+equipotrabajo:x:1003:estudiante1,estudiante2,estudiante3,vagrant
+
